@@ -2,6 +2,8 @@
 
 In this section of the curriculum, you will be introduced to non project-based concepts important to becoming a professional developer.
 
+I am testing to see if I can push changes
+
 ### Topics
 
 1. [Introduction to Programming Languages and Tools of the Trade](1-intro-to-programming-languages/README.md)
